@@ -1,5 +1,5 @@
 # 📊 Reporte de Ventas - Dashboard en Power BI
-![Portada](imagenes_dashboard/dashboard_cover.png)
+
 Este proyecto muestra un análisis interactivo de ventas utilizando Power BI. El objetivo es identificar tendencias clave, evaluar el desempeño por canal de ventas y detectar oportunidades de mejora para la toma de decisiones estratégicas.
 
 ---
@@ -55,9 +55,7 @@ Los datos fueron limpiados y transformados directamente en Power BI usando Power
 
 ---
 
-## 🔗 Visualiza el reporte
 
-(agrega aquí el enlace a Power BI público si decides publicarlo)
 
 ---
 
